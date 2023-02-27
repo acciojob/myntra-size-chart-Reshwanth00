@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table{
+	background:black;
+	border-radius:5px;
+}
+thead{
+	margin:0px;
+	background:red;
+}
